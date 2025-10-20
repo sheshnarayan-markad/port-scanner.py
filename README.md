@@ -10,6 +10,9 @@ python3 port-scanner.py [HOST/IP]
 
 # Required Dependencies:
 socket
+
 sys
+
 time
+
 concurrent.futures
